@@ -26,7 +26,7 @@ namespace GitTEst1.Controllers
 
             return View();
         }
-        public ActionResult GetMeHOme()
+        public ActionResult GetMeHome()
 
         {
             return View();
